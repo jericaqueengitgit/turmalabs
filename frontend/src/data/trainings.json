@@ -1,0 +1,1792 @@
+[
+  {
+    "application": "Zoom",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Schedule a Meeting",
+    "tutorial_url": "https://support.zoom.us/hc/en-us/articles/201362003-Scheduling-your-first-meeting",
+    "video_url": "https://www.youtube.com/watch?v=Cbw1UhvSQRU",
+    "description": "Learn how to schedule a Zoom meeting from the web portal or client, including topic, date, time, and options.",
+    "tags": [
+      "Zoom, scheduling, meetings"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Zoom",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Create Recurring Meetings",
+    "tutorial_url": "https://support.zoom.us/hc/en-us/articles/360020673491-Recurring-meetings",
+    "video_url": "https://www.youtube.com/watch?v=Dq6mo6Rgpic",
+    "description": "Guide to setting up recurring meetings with recurrence settings and calendar integration.",
+    "tags": [
+      "Zoom, recurring meetings"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Zoom",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Screen Sharing",
+    "tutorial_url": "https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen",
+    "video_url": "https://www.youtube.com/watch?v=XH-K0AdQacw",
+    "description": "Learn how to share your screen, choose windows/apps, and optimize sharing settings.",
+    "tags": [
+      "Zoom, screen share"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Zoom",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Local Recording",
+    "tutorial_url": "https://support.zoom.us/hc/en-us/articles/201362473-Local-recording",
+    "video_url": "https://www.youtube.com/watch?v=Kb8DJ-2g1xs",
+    "description": "Steps to record Zoom meetings locally and manage recorded files.",
+    "tags": [
+      "Zoom, recording"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Zoom",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Managing Breakout Rooms",
+    "tutorial_url": "https://support.zoom.us/hc/en-us/articles/360032750952-Managing-breakout-rooms",
+    "video_url": "https://www.youtube.com/watch?v=G0oK_mpaHU4",
+    "description": "How to create, open, and manage breakout rooms during a Zoom session.",
+    "tags": [
+      "Zoom, breakout rooms"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Slack",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Create a Channel",
+    "tutorial_url": "https://slack.com/help/articles/360022499954-Creating-a-channel",
+    "video_url": "https://www.youtube.com/watch?v=Sod4uWWy7zs",
+    "description": "Steps to create public or private channels in your Slack workspace.",
+    "tags": [
+      "Slack, channels"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Slack",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Workflow Builder Basics",
+    "tutorial_url": "https://slack.com/help/articles/17542172840595-Build-a-workflow--Create-a-workflow-in-Slack",
+    "video_url": "https://www.youtube.com/watch?v=7PwwJjU_uGc",
+    "description": "Step-by-step guide on building your first workflow in Slack Workflow Builder to automate routine tasks.",
+    "tags": [
+      "Slack, Workflow Builder, basics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Slack",
+    "category": "Communication & Meetings",
+    "tutorial_title": "9 Slack Workflow Examples",
+    "tutorial_url": "https://zapier.com/blog/slack-workflow-builder/",
+    "video_url": "https://www.youtube.com/watch?v=j8hbXWRti6U",
+    "description": "Explore nine real-world workflow examples you can implement in Slack Workflow Builder.",
+    "tags": [
+      "Slack, Workflow Builder, examples"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Microsoft Teams",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Schedule a Meeting",
+    "tutorial_url": "https://support.microsoft.com/en-us/office/schedule-a-meeting-in-microsoft-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5",
+    "video_url": "https://www.youtube.com/watch?v=P90nz4-IUiI",
+    "description": "Learn to schedule meetings using Teams calendar or chat, invite attendees, and set recurrence.",
+    "tags": [
+      "Teams, scheduling"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Microsoft Teams",
+    "category": "Communication & Meetings",
+    "tutorial_title": "Plan a Live Event",
+    "tutorial_url": "https://support.microsoft.com/en-us/office/plan-and-schedule-a-live-event-f92363a0-6d98-46d2-bdd9-f2248075e502",
+    "video_url": "https://www.youtube.com/watch?v=fUPNK3mvWzs",
+    "description": "Create and configure Teams Live Events for large-scale broadcasts, including roles and production settings.",
+    "tags": [
+      "Teams, live events"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Calendly",
+    "category": "Scheduling & Calendar",
+    "tutorial_title": "Getting Started with Calendly",
+    "tutorial_url": "https://help.calendly.com/hc/en-us/articles/360020195534-Getting-Started-with-Calendly",
+    "video_url": "https://www.youtube.com/watch?v=LLbCX31HiQ8",
+    "description": "Set up your Calendly account, define availability, and share booking links.",
+    "tags": [
+      "Calendly, setup, scheduling"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Calendly",
+    "category": "Scheduling & Calendar",
+    "tutorial_title": "Embed Calendly on a Website",
+    "tutorial_url": "https://help.calendly.com/hc/en-us/articles/223147027-How-do-I-embed-Calendly-on-a-website",
+    "video_url": "https://www.youtube.com/watch?v=_n3m5MGYBsY",
+    "description": "Learn to embed booking widgets or links into your website or email.",
+    "tags": [
+      "Calendly, embed, website"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Doodle",
+    "category": "Scheduling & Calendar",
+    "tutorial_title": "Create a Doodle Poll",
+    "tutorial_url": "https://support.doodle.com/hc/en-us/articles/115005982629-How-to-schedule-a-Doodle-poll",
+    "video_url": "https://www.youtube.com/watch?v=5ZrTk3h0uhM",
+    "description": "Guide to creating scheduling polls and collecting availability from participants.",
+    "tags": [
+      "Doodle, polls"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Doodle",
+    "category": "Scheduling & Calendar",
+    "tutorial_title": "Advanced Doodle Settings",
+    "tutorial_url": "https://support.doodle.com/hc/en-us/articles/360017092479-Advanced-settings-for-Doodle-polls",
+    "video_url": "https://www.youtube.com/watch?v=8aQHQZMaDnU",
+    "description": "Use reminders, custom deadlines, and integrations in Doodle polls.",
+    "tags": [
+      "Doodle, advanced"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Trello",
+    "category": "Project & Task Management",
+    "tutorial_title": "Trello Guide for Beginners",
+    "tutorial_url": "https://trello.com/guide",
+    "video_url": "https://www.youtube.com/watch?v=geRKHFzTxNY",
+    "description": "Introduction to boards, lists, and cards for essential project management.",
+    "tags": [
+      "Trello, basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Trello",
+    "category": "Project & Task Management",
+    "tutorial_title": "Butler Automation Basics",
+    "tutorial_url": "https://trello.com/guide/automate-anything",
+    "video_url": "https://www.youtube.com/watch?v=-emiHNjVNa4",
+    "description": "Learn to automate workflows in Trello using built-in Butler rules.",
+    "tags": [
+      "Trello, automation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Trello",
+    "category": "Project & Task Management",
+    "tutorial_title": "Using Power-Ups",
+    "tutorial_url": "https://support.atlassian.com/trello/docs/power-ups/",
+    "video_url": "https://www.youtube.com/watch?v=3hoEhOzumyc",
+    "description": "Enhance boards with integrations like Calendar, Custom Fields, and more.",
+    "tags": [
+      "Trello, Power-Ups"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Asana",
+    "category": "Project & Task Management",
+    "tutorial_title": "Getting Started with Asana",
+    "tutorial_url": "https://asana.com/guide/help/get-started/basics",
+    "video_url": "https://www.youtube.com/watch?v=xlW3rnrOdgg",
+    "description": "Set up projects, tasks, and teams for basic task management in Asana.",
+    "tags": [
+      "Asana, basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Asana",
+    "category": "Project & Task Management",
+    "tutorial_title": "Workflows & Rules",
+    "tutorial_url": "https://asana.com/guide/help/advanced/workflows",
+    "video_url": "https://www.youtube.com/watch?v=5jVsYLGSJ78",
+    "description": "Design automated workflows and rules to streamline project processes.",
+    "tags": [
+      "Asana, automation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "ClickUp",
+    "category": "Project & Task Management",
+    "tutorial_title": "ClickUp Getting Started",
+    "tutorial_url": "https://clickup.com/blog/getting-started/",
+    "video_url": "https://www.youtube.com/watch?v=ZFRlCYZwjNI",
+    "description": "Introduction to Spaces, Folders, Lists, and tasks in ClickUp.",
+    "tags": [
+      "ClickUp, basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "ClickUp",
+    "category": "Project & Task Management",
+    "tutorial_title": "Automations in ClickUp",
+    "tutorial_url": "https://clickup.com/features/automations",
+    "video_url": "https://www.youtube.com/watch?v=R1eJULWxMYY",
+    "description": "Set up custom automations to trigger actions across your workspace without code.",
+    "tags": [
+      "ClickUp, automation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Canva",
+    "category": "Graphic Design",
+    "tutorial_title": "Remove Image Background with Background Remover",
+    "tutorial_url": "https://www.canva.com/features/background-remover/",
+    "video_url": "https://www.youtube.com/watch?v=YJbg5aEcn8g",
+    "description": "Learn how to use Canva's Background Remover to instantly detach subjects from backgrounds.",
+    "tags": [
+      "background-removal,canva"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Canva",
+    "category": "Graphic Design",
+    "tutorial_title": "Collaborate Using Team Folders",
+    "tutorial_url": "https://www.canva.com/help/team-folders/",
+    "video_url": "https://www.youtube.com/watch?v=FhEwWQnCiq0",
+    "description": "Organize and share design assets across your team using Canva Team Folders.",
+    "tags": [
+      "team-folders,canva"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Veo Cam",
+    "category": "Sports Analytics",
+    "tutorial_title": "Set Up Veo Cam for Recording",
+    "tutorial_url": "https://support.veo.co/hc/en-us/articles/5922516538897-How-to-set-up-your-Veo-Cam-for-recording",
+    "video_url": "https://www.youtube.com/watch?v=1UOOwDtCTQw",
+    "description": "Mount, power, and angle your Veo Cam correctly for automated sports video recording.",
+    "tags": [
+      "setup,recording"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Veo Cam",
+    "category": "Sports Analytics",
+    "tutorial_title": "Live Stream to YouTube via RTMP",
+    "tutorial_url": "https://support.veo.co/hc/en-us/articles/26783279685265-Live-stream-to-YouTube-with-your-Veo-Cam",
+    "video_url": "https://www.youtube.com/watch?v=XbIrCNHoafo",
+    "description": "Configure your Veo Cam to live stream sports events to YouTube using RTMP settings.",
+    "tags": [
+      "live-stream,rtmp"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Twilio",
+    "category": "Communication API",
+    "tutorial_title": "Send SMS with Twilio Quickstart",
+    "tutorial_url": "https://www.twilio.com/docs/sms/send-messages",
+    "video_url": "https://www.youtube.com/watch?v=hvEYNMvlpBE",
+    "description": "Follow Twilio's quickstart guide to send your first SMS programmatically.",
+    "tags": [
+      "sms,api"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Twilio",
+    "category": "Communication API",
+    "tutorial_title": "Implement Phone Verification with Twilio Verify",
+    "tutorial_url": "https://www.twilio.com/docs/verify/api",
+    "video_url": "https://www.youtube.com/watch?v=Fdoxg0SjNP8",
+    "description": "Use the Twilio Verify API to add SMS-based phone number verification to your app.",
+    "tags": [
+      "verify,api"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "MailerLite",
+    "category": "Email Marketing",
+    "tutorial_title": "Create and Send Your First Campaign in MailerLite",
+    "tutorial_url": "https://help.mailerlite.com/tutorial-how-to-send-your-first-campaign",
+    "video_url": "https://www.youtube.com/watch?v=6wz9oMnzITs",
+    "description": "Learn to design, target, and send your first email campaign using MailerLite.",
+    "tags": [
+      "campaigns,mailerlite"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "MailerLite",
+    "category": "Email Marketing",
+    "tutorial_title": "Build Automation Workflows in MailerLite",
+    "tutorial_url": "https://help.mailerlite.com/tutorial-how-to-create-an-automation",
+    "video_url": "https://www.youtube.com/watch?v=Qf3Scci8vJE",
+    "description": "Design rule-based email automation to nurture subscribers automatically.",
+    "tags": [
+      "automation,workflows"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Loom",
+    "category": "Video Recording",
+    "tutorial_title": "Record Your First Loom Video",
+    "tutorial_url": "https://support.loom.com/hc/en-us/articles/360038471414-Launch-your-first-Recording",
+    "video_url": "https://www.youtube.com/watch?v=1sAcNLfRhKE",
+    "description": "Get started with Loom by recording and sharing your first video instantly.",
+    "tags": [
+      "screen-recording,loom"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Loom",
+    "category": "Video Recording",
+    "tutorial_title": "Customize Viewer Call-to-Actions in Loom",
+    "tutorial_url": "https://support.loom.com/hc/en-us/articles/360046638314-Using-Viewer-Customizations",
+    "video_url": "https://www.youtube.com/watch?v=FjFIFtEUxC8",
+    "description": "Learn to add custom buttons, annotations, and CTAs to your Loom videos.",
+    "tags": [
+      "customization,CTA"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Outlook",
+    "category": "Email Client",
+    "tutorial_title": "Schedule Email Delivery in Outlook",
+    "tutorial_url": "https://support.microsoft.com/office/schedule-email-delivery",
+    "video_url": "https://www.youtube.com/watch?v=2a9YXA3fDxA",
+    "description": "Use Outlook's delay delivery feature to send emails at a future time.",
+    "tags": [
+      "email,delay-delivery"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Outlook",
+    "category": "Email Client",
+    "tutorial_title": "Create Advanced Mail Rules in Outlook",
+    "tutorial_url": "https://support.microsoft.com/office/manage-email-messages-by-using-rules",
+    "video_url": "https://www.youtube.com/watch?v=XeAqGhrYr2Y",
+    "description": "Automate sorting and actions on incoming mail using Outlook rules.",
+    "tags": [
+      "rules,automation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Gmail",
+    "category": "Email Client",
+    "tutorial_title": "Undo Send Emails in Gmail",
+    "tutorial_url": "https://support.google.com/mail/answer/1385",
+    "video_url": "https://www.youtube.com/watch?v=DlUbp01l2To",
+    "description": "Enable and use Gmail's 'Undo Send' feature to recall sent messages.",
+    "tags": [
+      "undo-send,gmail"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Gmail",
+    "category": "Email Client",
+    "tutorial_title": "Set Up Filters and Labels in Gmail",
+    "tutorial_url": "https://support.google.com/mail/answer/6579",
+    "video_url": "https://www.youtube.com/watch?v=mn22fUvKl1A",
+    "description": "Organize your inbox by auto-labeling, archiving, and forwarding with filters.",
+    "tags": [
+      "filters,labels"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "GoHighLevel (GHL)",
+    "category": "Marketing Automation",
+    "tutorial_title": "Build a Sales Funnel in GoHighLevel",
+    "tutorial_url": "https://help.gohighlevel.com/en/articles/3174229-funnel-builder",
+    "video_url": "https://www.youtube.com/watch?v=ZYUlfUNKQo0",
+    "description": "Step-by-step guide to create a high-converting funnel in GoHighLevel.",
+    "tags": [
+      "funnels,automation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "GoHighLevel (GHL)",
+    "category": "Marketing Automation",
+    "tutorial_title": "Integrate Custom APIs in GoHighLevel",
+    "tutorial_url": "https://help.gohighlevel.com/en/articles/3384715-api-overview",
+    "video_url": "https://www.youtube.com/watch?v=6OMx-6Z0GFY",
+    "description": "Learn to connect external services using GoHighLevel's API endpoints.",
+    "tags": [
+      "api,integration"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "PayPal",
+    "category": "Payment Processing",
+    "tutorial_title": "Send and Request Money with PayPal",
+    "tutorial_url": "https://www.paypal.com/us/smarthelp/article/how-do-i-send-money-to-a-friend-or-family-member-faq2997",
+    "video_url": "https://www.youtube.com/watch?v=hlwVUahTj2k",
+    "description": "Quick guide to sending and requesting funds via PayPal personal transfers.",
+    "tags": [
+      "transfers,paypal"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "PayPal",
+    "category": "Payment Processing",
+    "tutorial_title": "Set Up Recurring Subscriptions with PayPal",
+    "tutorial_url": "https://developer.paypal.com/docs/subscriptions/integrate",
+    "video_url": "https://www.youtube.com/watch?v=aypY9Ku1CcY",
+    "description": "Implement subscription billing using PayPal's REST API.",
+    "tags": [
+      "subscriptions,api"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Rella",
+    "category": "Social Media Marketing",
+    "tutorial_title": "Generate Instagram Hashtags with Rella",
+    "tutorial_url": "https://www.rella.co/hashtag-generator",
+    "video_url": "https://www.youtube.com/watch?v=Q2fT4z4Yz98",
+    "description": "Use Rell AI-powered tool to instantly create relevant hashtags.",
+    "tags": [
+      "hashtags,Instagram"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Rella",
+    "category": "Social Media Marketing",
+    "tutorial_title": "Analyze Competitor Hashtags in Rella",
+    "tutorial_url": "https://www.rella.co/analytics",
+    "video_url": "https://www.youtube.com/watch?v=3RfQ5YPH4uA",
+    "description": "Learn to compare hashtag performance and trends against competitors.",
+    "tags": [
+      "analytics,hashtags"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Canva",
+    "category": "Graphic Design",
+    "tutorial_title": "Canva Magic Resize Trick",
+    "tutorial_url": "https://www.canva.com/features/magic-resize/",
+    "video_url": "https://www.youtube.com/watch?v=1UZ-Hi3uzr4",
+    "description": "Quickly resize one design into multiple formats with Magic Resize.",
+    "tags": [
+      "magic-resize",
+      "canva"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Canva",
+    "category": "Graphic Design",
+    "tutorial_title": "Canva Keyboard Shortcuts for Speed",
+    "tutorial_url": "https://www.canva.com/learn/keyboard-shortcuts/",
+    "video_url": "https://www.youtube.com/watch?v=xOyK2sCje-4",
+    "description": "Use 20+ shortcuts to speed up your Canva workflow.",
+    "tags": [
+      "keyboard-shortcuts",
+      "efficiency"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Twilio",
+    "category": "Communication API",
+    "tutorial_title": "Send SMS with Twilio Quickstart",
+    "tutorial_url": "https://www.twilio.com/docs/sms/send-messages",
+    "video_url": "https://www.youtube.com/watch?v=kb9aV_tjY-0",
+    "description": "Follow Twilio's quickstart guide to send your first SMS programmatically.",
+    "tags": [
+      "sms",
+      "api"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Twilio",
+    "category": "Communication API",
+    "tutorial_title": "Implement Phone Verification with Twilio Verify",
+    "tutorial_url": "https://www.twilio.com/docs/verify/api",
+    "video_url": "https://www.youtube.com/watch?v=UBjMm_nb45U",
+    "description": "Use the Twilio Verify API to add SMS-based phone number verification to your app.",
+    "tags": [
+      "verify",
+      "api"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "MailerLite",
+    "category": "Email Marketing",
+    "tutorial_title": "Create and Send Your First Campaign in MailerLite",
+    "tutorial_url": "https://help.mailerlite.com/tutorial-how-to-send-your-first-campaign",
+    "video_url": "https://www.youtube.com/watch?v=6wz9oMnzITs",
+    "description": "Learn to design, target, and send your first email campaign using MailerLite.",
+    "tags": [
+      "campaigns",
+      "mailerlite"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "MailerLite",
+    "category": "Email Marketing",
+    "tutorial_title": "Build Automation Workflows in MailerLite",
+    "tutorial_url": "https://help.mailerlite.com/tutorial-how-to-create-an-automation",
+    "video_url": "https://www.youtube.com/watch?v=Qf3Scci8vJE",
+    "description": "Design rule-based email automation to nurture subscribers automatically.",
+    "tags": [
+      "automation",
+      "workflows"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Loom",
+    "category": "Video Recording",
+    "tutorial_title": "Record Your First Loom Video",
+    "tutorial_url": "https://support.loom.com/hc/en-us/articles/360038471414-Launch-your-first-Recording",
+    "video_url": "https://www.youtube.com/watch?v=1sAcNLfRhKE",
+    "description": "Get started with Loom by recording and sharing your first video instantly.",
+    "tags": [
+      "screen-recording",
+      "loom"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Loom",
+    "category": "Video Recording",
+    "tutorial_title": "Customize Viewer Call-to-Actions in Loom",
+    "tutorial_url": "https://support.loom.com/hc/en-us/articles/360046638314-Using-Viewer-Customizations",
+    "video_url": "https://www.youtube.com/watch?v=FjFIFtEUxC8",
+    "description": "Learn to add custom buttons, annotations, and CTAs to your Loom videos.",
+    "tags": [
+      "customization",
+      "CTA"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Outlook",
+    "category": "Email Client",
+    "tutorial_title": "Schedule Email Delivery in Outlook",
+    "tutorial_url": "https://support.microsoft.com/office/schedule-email-delivery",
+    "video_url": "https://www.youtube.com/watch?v=2a9YXA3fDxA",
+    "description": "Use Outlook's delay delivery feature to send emails at a future time.",
+    "tags": [
+      "email",
+      "delay-delivery"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Outlook",
+    "category": "Email Client",
+    "tutorial_title": "Create Advanced Mail Rules in Outlook",
+    "tutorial_url": "https://support.microsoft.com/office/manage-email-messages-by-using-rules",
+    "video_url": "https://www.youtube.com/watch?v=XeAqGhrYr2Y",
+    "description": "Automate sorting and actions on incoming mail using Outlook rules.",
+    "tags": [
+      "rules",
+      "automation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Gmail",
+    "category": "Email Client",
+    "tutorial_title": "Undo Send Emails in Gmail",
+    "tutorial_url": "https://support.google.com/mail/answer/1385",
+    "video_url": "https://www.youtube.com/watch?v=DlUbp01l2To",
+    "description": "Enable and use Gmail's 'Undo Send' feature to recall sent messages.",
+    "tags": [
+      "undo-send",
+      "gmail"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Gmail",
+    "category": "Email Client",
+    "tutorial_title": "Set Up Filters and Labels in Gmail",
+    "tutorial_url": "https://support.google.com/mail/answer/6579",
+    "video_url": "https://www.youtube.com/watch?v=mn22fUvKl1A",
+    "description": "Organize your inbox by auto-labeling, archiving, and forwarding with filters.",
+    "tags": [
+      "filters",
+      "labels"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "GoHighLevel (GHL)",
+    "category": "Marketing Automation",
+    "tutorial_title": "Build a Sales Funnel in GoHighLevel",
+    "tutorial_url": "https://help.gohighlevel.com/en/articles/3174229-funnel-builder",
+    "video_url": "https://www.youtube.com/watch?v=ZYUlfUNKQo0",
+    "description": "Step-by-step guide to create a high-converting funnel in GoHighLevel.",
+    "tags": [
+      "funnels",
+      "automation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "PayPal",
+    "category": "Payment Processing",
+    "tutorial_title": "Send and Request Money with PayPal",
+    "tutorial_url": "https://www.paypal.com/us/smarthelp/article/how-do-i-send-money-to-a-friend-or-family-member-faq2997",
+    "video_url": "https://www.youtube.com/watch?v=hlwVUahTj2k",
+    "description": "Quick guide to sending and requesting funds via PayPal personal transfers.",
+    "tags": [
+      "transfers",
+      "paypal"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "PayPal",
+    "category": "Payment Processing",
+    "tutorial_title": "Set Up Recurring Subscriptions with PayPal",
+    "tutorial_url": "https://developer.paypal.com/docs/subscriptions/integrate",
+    "video_url": "https://www.youtube.com/watch?v=aypY9Ku1CcY",
+    "description": "Implement subscription billing using PayPal's REST API.",
+    "tags": [
+      "subscriptions",
+      "api"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Rella",
+    "category": "Social Media Marketing",
+    "tutorial_title": "Analyze Competitor Hashtags in Rella",
+    "tutorial_url": "https://www.rella.co/analytics",
+    "video_url": "https://www.youtube.com/watch?v=3RfQ5YPH4uA",
+    "description": "Learn to compare hashtag performance and trends against competitors.",
+    "tags": [
+      "analytics",
+      "hashtags"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Veo Cam",
+    "category": "Sports Analytics",
+    "tutorial_title": "Set Up Veo Cam for Recording",
+    "tutorial_url": "https://support.veo.co/hc/en-us/articles/5922516538897-How-to-set-up-your-Veo-Cam-for-recording",
+    "video_url": "https://www.youtube.com/watch?v=1UOOwDtCTQw",
+    "description": "Mount, power, and angle your Veo Cam correctly for automated sports video recording.",
+    "tags": [
+      "setup",
+      "recording"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Veo Cam",
+    "category": "Sports Analytics",
+    "tutorial_title": "Live Stream to YouTube via RTMP",
+    "tutorial_url": "https://support.veo.co/hc/en-us/articles/26783279685265-Live-stream-to-YouTube-with-your-Veo-Cam",
+    "video_url": "https://www.youtube.com/watch?v=XbIrCNHoafo",
+    "description": "Configure your Veo Cam to live stream sports events to YouTube using RTMP settings.",
+    "tags": [
+      "live-stream",
+      "rtmp"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Google Docs",
+    "category": "Word Processing",
+    "tutorial_title": "Translate a Document in Google Docs",
+    "tutorial_url": "https://support.google.com/docs/answer/10710316",
+    "video_url": "https://www.youtube.com/watch?v=QW5rdTqtC60",
+    "description": "Translate your document into 100+ languages with one click",
+    "tags": [
+      "translate",
+      "multilingual"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Google Docs",
+    "category": "Word Processing",
+    "tutorial_title": "Version History & Restore",
+    "tutorial_url": "https://support.google.com/docs/answer/190843",
+    "video_url": "https://www.youtube.com/watch?v=CdiJ5CZxtTE",
+    "description": "Recover or revert to any previous version of your document",
+    "tags": [
+      "version-history",
+      "restore"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Google Sheets",
+    "category": "Spreadsheets",
+    "tutorial_title": "Split Text to Columns",
+    "tutorial_url": "https://support.google.com/docs/answer/3094137",
+    "video_url": "https://www.youtube.com/watch?v=2_LgY8bYZc4",
+    "description": "Instantly split a cell\u2019s text across multiple columns",
+    "tags": [
+      "split-text",
+      "data-cleanup"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Microsoft Excel",
+    "category": "Spreadsheets",
+    "tutorial_title": "Use XLOOKUP for Two-Way Lookups",
+    "tutorial_url": "https://support.microsoft.com/en-us/office/xlookup-function",
+    "video_url": "https://www.youtube.com/watch?v=trn56zlrnY4",
+    "description": "Replace VLOOKUP/HLOOKUP with the more powerful XLOOKUP function",
+    "tags": [
+      "xlookup",
+      "lookup"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "WordPress",
+    "category": "Web CMS",
+    "tutorial_title": "Install & Configure the Yoast SEO Plugin",
+    "tutorial_url": "https://yoast.com/help/wordpress-seo/",
+    "video_url": "https://www.youtube.com/watch?v=VA5s9GhDILI",
+    "description": "Optimize your site\u2019s SEO by installing and setting up Yoast SEO",
+    "tags": [
+      "seo",
+      "yoast"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Zapier",
+    "category": "Automation",
+    "tutorial_title": "Build Conditional \u201cPaths\u201d in Zaps",
+    "tutorial_url": "https://zapier.com/apps/paths/help",
+    "video_url": "https://www.youtube.com/watch?v=aeQCNEMXjEQ",
+    "description": "Branch workflows with If/Else logic without writing any code",
+    "tags": [
+      "paths",
+      "conditional-logic"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Figma",
+    "category": "UI/UX Design",
+    "tutorial_title": "Master Auto Layout",
+    "tutorial_url": "https://www.figma.com/resources/learn-design/auto-layout/",
+    "video_url": "https://www.youtube.com/watch?v=gyMwXuJLB6w",
+    "description": "Create responsive, flexible designs that adapt dynamically",
+    "tags": [
+      "auto-layout",
+      "responsive-design"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "HubSpot CRM",
+    "category": "CRM",
+    "tutorial_title": "Create Automated Workflows in HubSpot",
+    "tutorial_url": "https://knowledge.hubspot.com/workflows/create-and-manage-workflows",
+    "video_url": "https://www.youtube.com/watch?v=ZjzXIQK-KmY",
+    "description": "Drive lead nurturing with event-triggered email and task sequences",
+    "tags": [
+      "workflows",
+      "automation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Mailchimp",
+    "category": "Email Marketing",
+    "tutorial_title": "Set Up Mailchimp Customer Journeys",
+    "tutorial_url": "https://mailchimp.com/features/customer-journeys/",
+    "video_url": "https://www.youtube.com/watch?v=5jItbM8RyfM",
+    "description": "Design multi-step journeys using behavioral triggers",
+    "tags": [
+      "customer-journeys",
+      "automation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "ActiveCampaign",
+    "category": "Email Marketing",
+    "tutorial_title": "Add Site Tracking to ActiveCampaign",
+    "tutorial_url": "https://help.activecampaign.com/hc/en-us/articles/360003730494-Get-your-site-tracking-code",
+    "video_url": "https://www.youtube.com/watch?v=PS8q4pVXWWM",
+    "description": "Track visitor actions to trigger personalized follow-ups",
+    "tags": [
+      "site-tracking",
+      "personalization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Hootsuite",
+    "category": "Social Scheduling",
+    "tutorial_title": "Schedule Bulk Posts via CSV Upload",
+    "tutorial_url": "https://help.hootsuite.com/hc/en-us/articles/204598240",
+    "video_url": "https://www.youtube.com/watch?v=M6vGq1eFqK4",
+    "description": "Upload hundreds of posts at once using a simple CSV template",
+    "tags": [
+      "bulk-scheduling",
+      "csv-upload"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Buffer",
+    "category": "Social Scheduling",
+    "tutorial_title": "Create Images with Buffer\u2019s Pablo Tool",
+    "tutorial_url": "https://buffer.com/library/pablo",
+    "video_url": "https://www.youtube.com/watch?v=5GPjRnusNbY",
+    "description": "Quickly design social-ready images with text overlays",
+    "tags": [
+      "pablo",
+      "image-design"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Airtable",
+    "category": "Database",
+    "tutorial_title": "Add & Use Blocks (Apps) in Airtable",
+    "tutorial_url": "https://support.airtable.com/hc/en-us/articles/115013940188-Using-apps",
+    "video_url": "https://www.youtube.com/watch?v=c4e4W-Er8rI",
+    "description": "Extend bases with charts, maps, page designers and more",
+    "tags": [
+      "blocks",
+      "apps"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Asana",
+    "category": "Project Management",
+    "tutorial_title": "Send Automated Due-Date Alerts via Slack",
+    "tutorial_url": "https://asana.com/guide/help/api/slack",
+    "video_url": "https://www.youtube.com/watch?v=xoEUI2r6_K0",
+    "description": "Ping Slack channels automatically when tasks approach their due dates",
+    "tags": [
+      "slack-integration",
+      "notifications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "CapCut",
+    "category": "Video Editing",
+    "tutorial_title": "How to Edit a Cinematic Video in CapCut [With AI]",
+    "tutorial_url": "https://www.capcut.com/en-US/tutorials/cinematic-editing",
+    "video_url": "https://www.youtube.com/watch?v=5QUSuMPD95k",
+    "description": "Learn to craft cinematic edits using CapCut\u2019s AI tools for color grading, transitions, and dynamic text.",
+    "tags": [
+      "cinematic",
+      "capcut",
+      "ai-editing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Canva",
+    "category": "Graphic Design",
+    "tutorial_title": "16 Canva Shortcuts You MUST Know",
+    "tutorial_url": "https://www.canva.com/learn/keyboard-shortcuts/",
+    "video_url": "https://www.youtube.com/watch?v=0E_lZPwnJ7I&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D",
+    "description": "Master 16 essential keyboard shortcuts to speed up your Canva design workflow.",
+    "tags": [
+      "keyboard-shortcuts",
+      "canva",
+      "efficiency"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Procreate",
+    "category": "Illustration",
+    "tutorial_title": "HOW TO MAKE an ANIMATION in Procreate",
+    "tutorial_url": "https://folio.procreate.art/handbook/animationassist",
+    "video_url": "https://www.youtube.com/shorts/LPPVo8qzqZs",
+    "description": "Create frame-by-frame animations in Procreate using the Animation Assist feature.",
+    "tags": [
+      "animation",
+      "procreate",
+      "shorts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "AI Music Video Generators",
+    "category": "AI Video Creation",
+    "tutorial_title": "How To Create Viral AI Animated Music Videos With AI Tools",
+    "tutorial_url": "https://www.kapwing.com/resources/ai-music-video/",
+    "video_url": "https://www.youtube.com/watch?v=yN9pwetBdnE&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D",
+    "description": "Use AI-powered platforms to generate animated music videos that sync visuals to audio beats.",
+    "tags": [
+      "ai-video",
+      "music-video",
+      "animation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "YouTube",
+    "category": "Video Platform",
+    "tutorial_title": "How To Make a YouTube Clip",
+    "tutorial_url": "https://support.google.com/youtube/answer/9884572",
+    "video_url": "https://www.youtube.com/shorts/XP9_7ciIfDk",
+    "description": "Step-by-step guide to clipping and sharing segments of YouTube videos on mobile.",
+    "tags": [
+      "youtube",
+      "clips",
+      "shorts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Clipchamp",
+    "category": "Video Editing",
+    "tutorial_title": "How to use Microsoft\u2019s FREE Video Editor \u2013 Clipchamp",
+    "tutorial_url": "https://clipchamp.com/en/resources/edit-video/",
+    "video_url": "https://www.youtube.com/watch?v=Kf_14bvASxY&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D",
+    "description": "Explore Clipchamp\u2019s free editor features for trimming, transitions, and export settings.",
+    "tags": [
+      "clipchamp",
+      "video-editing",
+      "free-editor"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Video Script Writing",
+    "category": "Content Creation",
+    "tutorial_title": "My SIMPLE process for writing short-form video scripts",
+    "tutorial_url": "https://www.descript.com/blog/article/how-to-write-a-video-script-like-a-pro",
+    "video_url": "https://www.youtube.com/shorts/HpSuY4fd6wc",
+    "description": "Learn a concise 3-step framework to craft compelling short-form video scripts with strong hooks.",
+    "tags": [
+      "scriptwriting",
+      "video-scripting",
+      "short-form"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "LinkedIn",
+    "category": "Social Media",
+    "tutorial_title": "Optimize Your Bio In 7 Simple Steps",
+    "tutorial_url": "https://blog.hubspot.com/marketing/linkedin-profile-tips",
+    "video_url": "https://www.youtube.com/watch?v=E23Tuz9h8xo",
+    "description": "Discover how to write a compelling LinkedIn bio to showcase your expertise and attract opportunities.",
+    "tags": [
+      "linkedin",
+      "profile-optimization",
+      "bio"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Copywriting",
+    "category": "Writing & Marketing",
+    "tutorial_title": "What Is Copywriting? The NEW Definition You Need To Know In 2025",
+    "tutorial_url": "https://blog.hubspot.com/marketing/copywriting-definition",
+    "video_url": "https://www.youtube.com/watch?v=AeTYpSDIT4Q&pp=0gcJCcMJAYcqIYzv",
+    "description": "Understand modern copywriting fundamentals and essential skills to excel in 2025.",
+    "tags": [
+      "copywriting",
+      "marketing",
+      "writing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "WordPress",
+    "category": "Web CMS",
+    "tutorial_title": "Build Your First WordPress Website in Minutes with AI Magic!",
+    "tutorial_url": "https://wordpress.org/support/article/new-to-wordpress-where-to-start/",
+    "video_url": "https://www.youtube.com/watch?v=nSbZEpzWv2c",
+    "description": "Leverage AI tools and quick-start guides to set up and launch your first WordPress site.",
+    "tags": [
+      "wordpress",
+      "website-setup",
+      "ai"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "ReadKidz",
+    "category": "AI Publishing",
+    "tutorial_title": "Create Children's Stories with AI! How to Use ReadKidz for Books",
+    "tutorial_url": "https://www.readkidz.com/library/tutorials",
+    "video_url": "https://www.youtube.com/watch?v=zbVVr7YjSnk&pp=0gcJCcMJAYcqIYzv",
+    "description": "Use ReadKidz\u2019s AI to generate, illustrate, and publish engaging children\u2019s picture stories.",
+    "tags": [
+      "storytelling",
+      "ai",
+      "education"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Cinematic Shots",
+    "category": "Videography",
+    "tutorial_title": "Top 10 Cinematic Shots For Beginners",
+    "tutorial_url": "https://blog.audiosocket.com/filmmaking/top-10-cinematic-shots-for-beginners/",
+    "video_url": "https://www.youtube.com/watch?v=y7si6iAo0Vo",
+    "description": "Learn the essential cinematic shots every filmmaker should know to tell compelling visual stories.",
+    "tags": [
+      "shots, cinematography, filmmaking basics"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Content Hooks",
+    "category": "Copywriting",
+    "tutorial_title": "How to Use the Hook Model to Make Your Content Irresistible",
+    "tutorial_url": "https://www.animalz.co/blog/content-hook-model/",
+    "video_url": "https://www.youtube.com/watch?v=LmXpbP7dD48",
+    "description": "Master the Hook Model (trigger \u2192 action \u2192 reward \u2192 investment) to engage your audience from the very start.",
+    "tags": [
+      "hooks, engagement, content strategy"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "Instagram Reels",
+    "category": "Social Media",
+    "tutorial_title": "10 Instagram Reels and TikTok Ideas for Artists with Examples",
+    "tutorial_url": "https://samrodriguezart.com/blog/2022/12/30/10-instagram-reels-and-tiktok-ideas-for-artists-with-examples",
+    "video_url": "https://www.youtube.com/watch?v=EDS9sJFFBS8",
+    "description": "Discover creative ideas and techniques for making aesthetic Reels and TikToks as an artist.",
+    "tags": [
+      "instagram reels, tiktok, artist workflow"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "Apple Clips",
+    "category": "Mobile Video Editing",
+    "tutorial_title": "Clips User Guide",
+    "tutorial_url": "https://support.apple.com/guide/clips/welcome/ios",
+    "video_url": "https://www.youtube.com/watch?v=c9SBAW2hngk",
+    "description": "Official Apple Clips tutorial covering recording, editing, and sharing short videos on iPhone and iPad.",
+    "tags": [
+      "clips, mobile editing, apple"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Clipchamp",
+    "category": "Video Editing",
+    "tutorial_title": "Clipchamp Video Editing Tutorial: FREE Windows 11 Video Editor",
+    "tutorial_url": "https://clipchamp.com/en/resources/edit-video/",
+    "video_url": "https://www.youtube.com/watch?v=AMH38LNONoU",
+    "description": "Step-by-step guide to using Clipchamp\u2019s free editor on Windows 11 for cutting, trimming, and exporting videos.",
+    "tags": [
+      "clipchamp, windows editor, free tools"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Midjourney Video",
+    "category": "AI Video Generation",
+    "tutorial_title": "Video \u2013 Midjourney",
+    "tutorial_url": "https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video",
+    "video_url": "https://www.youtube.com/watch?v=sQ1jII2-oTM",
+    "description": "Official documentation on using Midjourney\u2019s new video generation feature with auto and manual controls.",
+    "tags": [
+      "midjourney, ai video, tutorial"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "application": "Tips",
+    "category": "Equipment",
+    "tutorial_title": "6 Essential Tips for Shooting Smooth Handheld Vlogs",
+    "tutorial_url": "https://www.ulanzi.com/blogs/news/handheld-vlogging-tips-guide",
+    "video_url": "https://www.youtube.com/watch?v=U4KIOGS9Xj0",
+    "description": "Tips for using the Ulanzi TT38 tripod and improving handheld stability for travel vlogs.",
+    "tags": [
+      "Ulanzi, tripod, vlogging"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Storytelling",
+    "category": "Content Creation",
+    "tutorial_title": "How to Tell Imaginative Stories to Captivate Your Target Audience",
+    "tutorial_url": "https://blog.hubspot.com/marketing/storytelling",
+    "video_url": "https://www.youtube.com/watch?v=MP49IrjvwBY",
+    "description": "Ultimate guide to crafting compelling stories for marketing and business purposes.",
+    "tags": [
+      "storytelling, marketing, audience engagement"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "YouTube Thumbnails",
+    "category": "Graphic Design",
+    "tutorial_title": "How to Make YouTube Thumbnails: the Ultimate Guide for 2025",
+    "tutorial_url": "https://podcastle.ai/blog/how-to-make-youtube-thumbnails/",
+    "video_url": "https://www.youtube.com/watch?v=Iqy644uOOqM",
+    "description": "Comprehensive guide on creating eye-catching thumbnails using the latest design principles.",
+    "tags": [
+      "youtube, thumbnails, design"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Social Media Growth",
+    "category": "Marketing",
+    "tutorial_title": "Social Media Marketing Mastery: How to Turn Likes into Loyal Customers",
+    "tutorial_url": "https://blog.hubspot.com/marketing/social-media-marketing",
+    "video_url": "https://www.youtube.com/watch?v=u7Sb-GIdBqw",
+    "description": "In-depth strategies for increasing views and engagement across major social platforms.",
+    "tags": [
+      "social media, marketing strategies, growth hacks"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "application": "Public Speaking",
+    "category": "Communication",
+    "tutorial_title": "The Art of Public Speaking: Mastering the Skills to Speak and Improve",
+    "tutorial_url": "https://saspod.com/blog/post/the-art-of-public-speaking",
+    "video_url": "https://www.youtube.com/watch?v=35SPFdc1eXY",
+    "description": "Techniques for overcoming anxiety and delivering impactful speeches in any setting.",
+    "tags": [
+      "public speaking, communication, presentation skills"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "Zapier Chatbots",
+    "category": "Automation",
+    "tutorial_title": "How to Create a Custom AI Chatbot with Zapier Chatbots",
+    "tutorial_url": "https://zapier.com/blog/create-custom-ai-chatbots-with-interfaces/",
+    "video_url": "https://www.youtube.com/watch?v=g9aYdAat3hY",
+    "description": "Guide to building and customizing AI chatbots using Zapier\u2019s Chatbots interface.",
+    "tags": [
+      "zapier, chatbots, ai automation"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "ChatGPT Slack Bot",
+    "category": "Integration",
+    "tutorial_title": "How to build a ChatGPT Slack bot with Zapier",
+    "tutorial_url": "https://zapier.com/blog/how-to-build-chatgpt-slack-bot/",
+    "video_url": "https://www.youtube.com/watch?v=ScwvR6REOqI",
+    "description": "Step-by-step tutorial on integrating ChatGPT with Slack via Zapier for automated responses.",
+    "tags": [
+      "slack, chatgpt, zapier integration"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "Cinematic Shots",
+    "category": "Videography",
+    "tutorial_title": "These Are the Only Shots You Will Ever Need",
+    "tutorial_url": "https://blog.audiosocket.com/filmmaking/top-10-cinematic-shots-for-beginners/ (blog.audiosocket.com)",
+    "video_url": "https://www.youtube.com/watch?v=y7si6iAo0Vo&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D (youtube.com)",
+    "description": "Learn essential cinematic shots every filmmaker needs, covering versatile camera angles for storytelling.",
+    "tags": [
+      "shots",
+      "cinematic",
+      "filmmaking"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Copywriting Hooks",
+    "category": "Content Writing",
+    "tutorial_title": "How to Craft Magnetic Copywriting Hooks",
+    "tutorial_url": "https://www.animalz.co/blog/content-hook-model/ (animalz.co)",
+    "video_url": "https://www.youtube.com/watch?v=LmXpbP7dD48&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D (youtube.com)",
+    "description": "Discover the hook model to create irresistible openings that capture reader attention instantly.",
+    "tags": [
+      "copywriting",
+      "hooks",
+      "content-marketing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Instagram Reels",
+    "category": "Social Media Marketing",
+    "tutorial_title": "How I Make Aesthetic Instagram Reels & TikToks as an Artist!",
+    "tutorial_url": "https://later.com/blog/instagram-aesthetic/ (later.com)",
+    "video_url": "https://www.youtube.com/watch?v=EDS9sJFFBS8&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D (youtube.com)",
+    "description": "Walk through the process of brainstorming, filming, and editing aesthetic Instagram Reels and TikToks tailored for artists.",
+    "tags": [
+      "instagram-reels",
+      "aesthetic",
+      "social-media"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Apple Clips",
+    "category": "Mobile Video Editing",
+    "tutorial_title": "Show What You\u2019ve Learned With Apple Clips - 2018 Tutorial",
+    "tutorial_url": "https://support.apple.com/en-ca/guide/clips/welcome/ios (support.apple.com)",
+    "video_url": "https://www.youtube.com/watch?v=c9SBAW2hngk&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D (youtube.com)",
+    "description": "This video tutorial shows how to use Apple Clips to record video, add animated captions, and combine multiple clips and photos.",
+    "tags": [
+      "clips",
+      "mobile-editing",
+      "apple"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Clipchamp",
+    "category": "Video Editing",
+    "tutorial_title": "Clipchamp Video Editing Tutorial: FREE Windows 11 Editor",
+    "tutorial_url": "https://help.clipchamp.com/en/articles/1508549-how-do-i-edit-a-video-in-clipchamp (help.clipchamp.com)",
+    "video_url": "https://www.youtube.com/watch?v=AMH38LNONoU&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D (youtube.com)",
+    "description": "Learn to use Clipchamp\u2019s free video editor on Windows 11 for trimming, transitions, green screen, and exporting high-quality videos.",
+    "tags": [
+      "clipchamp",
+      "video-editing",
+      "windows"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "Midjourney",
+    "category": "AI Video Generation",
+    "tutorial_title": "Midjourney Video Is FINALLY Here! (And It Is INSANE)",
+    "tutorial_url": "https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video (docs.midjourney.com)",
+    "video_url": "https://www.youtube.com/watch?v=sQ1jII2-oTM&t=61s&pp=ygUOdHV0b3JpYWwgY2xpcHM%3D (youtube.com)",
+    "description": "Overview of Midjourney\u2019s new video feature: creating and extending AI-generated clips with low/high motion settings.",
+    "tags": [
+      "midjourney",
+      "ai-video",
+      "generative-ai"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "application": "Ulanzi TT38 Tripod",
+    "category": "Vlogging Accessories",
+    "tutorial_title": "These 3 Things Will Improve Your Travel Films ft. Ulanzi TT38",
+    "tutorial_url": "https://www.ulanzi.com/blogs/news/handheld-vlogging-tips-guide (ulanzi.com)",
+    "video_url": "https://www.youtube.com/watch?v=U4KIOGS9Xj0 (youtube.com)",
+    "description": "Discover tips to enhance travel and vlog footage using the Ulanzi TT38 tripod, including stability, shot composition, and setup.",
+    "tags": [
+      "tripod",
+      "vlogging",
+      "travel"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Storytelling",
+    "category": "Content Strategy",
+    "tutorial_title": "An Easy Way of Storytelling",
+    "tutorial_url": "https://blog.hubspot.com/marketing/storytelling (blog.hubspot.com)",
+    "video_url": "https://www.youtube.com/watch?v=MP49IrjvwBY (youtube.com)",
+    "description": "Discover an effortless framework for crafting compelling narratives in your content marketing using key storytelling elements.",
+    "tags": [
+      "storytelling",
+      "content-strategy",
+      "marketing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "application": "YouTube Thumbnails",
+    "category": "Design",
+    "tutorial_title": "How to Create Irresistible Thumbnails (and Blow Up Your Content)",
+    "tutorial_url": "https://blog.hubspot.com/marketing/youtube-thumbnail (blog.hubspot.com)",
+    "video_url": "https://www.youtube.com/watch?v=Iqy644uOOqM (youtube.com)",
+    "description": "A step-by-step guide to crafting attention-grabbing YouTube thumbnails using online tools, text, and clip art to boost engagement.",
+    "tags": [
+      "youtube-thumbnails",
+      "design",
+      "thumbnail-tips"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "Social Media Growth",
+    "category": "Social Media Marketing",
+    "tutorial_title": "44 Tricks To Instantly Get More Views on Social Media",
+    "tutorial_url": "https://galaxy.ai/youtube-summarizer/44-tricks-to-instantly-get-more-views-on-social-media-u7Sb-GIdBqw (galaxy.ai)",
+    "video_url": "https://www.youtube.com/watch?v=u7Sb-GIdBqw (youtube.com)",
+    "description": "Learn 44 actionable tips and hacks to boost your views and engagement across social media platforms instantly.",
+    "tags": [
+      "social-media",
+      "growth",
+      "hacks"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "application": "toggl",
+    "category": "Productivity",
+    "tutorial_title": "Windows Desktop App Demo",
+    "tutorial_url": "https://support.toggl.com/en/articles/6176883-toggl-track-desktop-app-for-windows (support.toggl.com)",
+    "video_url": "https://youtu.be/dMKByKJbB2E?si=1CvEs1_tQhPslBAL",
+    "description": "A quick demo on how to get started with the Windows desktop app. Users appreciate the desktop app for focus.",
+    "tags": [
+      "time-tracking, productivity, desktop-app"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "toggl",
+    "category": "Productivity",
+    "tutorial_title": "Product Demo",
+    "tutorial_url": "https://support.toggl.com/en/collections/1461327-introduction-to-toggl-track (support.toggl.com)",
+    "video_url": "https://youtu.be/e_SKyiGgilg?si=6sUgnQqfD0j4Mbtz",
+    "description": "Learn the basics of tracking time with toggl, creating reports, and setting up your workspace.",
+    "tags": [
+      "time-tracking, productivity, reporting"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "toggl",
+    "category": "Productivity",
+    "tutorial_title": "How To Set Up Native Salesforce Integration",
+    "tutorial_url": "https://support.toggl.com/en/articles/5391572-salesforce-sync (support.toggl.com)",
+    "video_url": "https://youtu.be/cnmkueKUGrA?si=19lWMO5pISAdBEFa",
+    "description": "Configure toggl\u2019s native Salesforce integration to sync time entries with your Salesforce objects.",
+    "tags": [
+      "toggl, salesforce, integration, time-tracking"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "toggl",
+    "category": "Productivity",
+    "tutorial_title": "Reports Demo \u2014 Popular reporting features in Toggl Track",
+    "tutorial_url": "https://support.toggl.com/en/collections/1148692-analyzing-time-and-reporting (support.toggl.com)",
+    "video_url": "https://youtu.be/z3baHn8AKRo?si=uwK1O7SL7m2_12td",
+    "description": "An overview of the most helpful reporting features available in toggl Track.",
+    "tags": [
+      "reports, time-tracking, productivity"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "toggl",
+    "category": "Productivity",
+    "tutorial_title": "Start Time Entry from URL Demo",
+    "tutorial_url": "https://support.toggl.com/en/articles/6368086-can-i-start-a-time-entry-with-a-url (support.toggl.com)",
+    "video_url": "https://youtu.be/yLxoHB4VO5U?si=4AloONDypcKiTJp_",
+    "description": "Show how to start a time entry via URL with description, project, client, etc.",
+    "tags": [
+      "time-tracking, url-integration"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "toggl",
+    "category": "Productivity",
+    "tutorial_title": "Video unavailable",
+    "tutorial_url": "https://support.toggl.com/en/articles/2206984-toggl-track-browser-extension (support.toggl.com)",
+    "video_url": "https://youtu.be/_xJ9ER2ZZBw?si=C-YBWgdIzXqWes8",
+    "description": "This video appears to have been removed or is private.",
+    "tags": [
+      "unknown"
+    ],
+    "difficulty": "Unknown"
+  },
+  {
+    "application": "toggl",
+    "category": "Productivity",
+    "tutorial_title": "Reports Demo \u2014 Popular reporting features in Toggl Track",
+    "tutorial_url": "https://support.toggl.com/en/collections/1148692-analyzing-time-and-reporting (support.toggl.com)",
+    "video_url": "https://youtu.be/1SYZyKQAjvE?si=1HvffEJfCPPCQfxo",
+    "description": "In 90 seconds, learn how to make the most of toggl\u2019s reporting features.",
+    "tags": [
+      "reports, productivity, time-tracking"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "Triggers",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/48000982202-triggers-overview (help.gohighlevel.com)",
+    "video_url": "https://www.youtube.com/watch?v=R_cq7TPVWJg&list=PLUjgZhyQd8yXREQY0ujh_C8Ium33g2iyM",
+    "description": "Learn how to use Triggers in GoHighLevel to automate workflows\u2014connecting specific events to follow-up actions across your account. (help.gohighlevel.com)",
+    "tags": [
+      "triggers, workflows, automation"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "Zapier",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000005109-connect-highlevel-sub-account-with-zapier",
+    "video_url": "https://www.youtube.com/watch?v=iRMTkTz1Xs0&list=PLUjgZhyQd8yXREQY0ujh_C8Ium33g2iyM&index=2",
+    "description": "Connect a HighLevel sub-account with Zapier to automate workflows such as lead capture, contact updates, and task creation.",
+    "tags": [
+      "zapier, integration, automation"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "Contact Flow",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/48001157626-contact-flow",
+    "video_url": "https://www.youtube.com/watch?v=H-G8fijOzwo&list=PLUjgZhyQd8yXREQY0ujh_C8Ium33g2iyM&index=3",
+    "description": "Use Contact Flow to automate and route communications by designing conversation paths for inbound calls, SMS, and chat.",
+    "tags": [
+      "contact-flow, workflows, automation"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "How to Cancel SaaS Sub-Accounts for Client",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/48001216453-how-to-cancel-saas-sub-account-for-your-client",
+    "video_url": "https://www.youtube.com/watch?v=c-IVH1nCIlE&list=PLUjgZhyQd8yXj1sWPGqnUuG4y5pvciWIB&index=1",
+    "description": "Cancel a client\u2019s SaaS subscription: navigate to the Agency Dashboard, select the sub-account, and choose \u201cCancel Subscription.\u201d",
+    "tags": [
+      "saas, sub-accounts, billing"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "Guide to Direct Payment Integration with Mobile Estimates",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000005617-how-to-use-direct-payments-in-estimates-in-the-mobile-app",
+    "video_url": "https://www.youtube.com/watch?v=blWyBKLaJwQ&list=PLUjgZhyQd8yXj1sWPGqnUuG4y5pvciWIB&index=2",
+    "description": "Enable direct payments within mobile estimates so clients can pay instantly upon estimate acceptance in the HighLevel app.",
+    "tags": [
+      "mobile, payments, estimates"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "Streamline Your Tasks: A How-To Guide for the Updated Task Manager",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000005529-unified-task-management-across-contacts-and-opportunities",
+    "video_url": "https://youtu.be/oYnIUeIhPUg?si=GtC1LUmM79T9_72P",
+    "description": "Leverage the Unified Task Manager to create, assign, and track tasks across contacts and opportunities from a single interface.",
+    "tags": [
+      "tasks, management, productivity"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "SMS Messaging Ramp: A Step-by-Step Guide",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000005572-messaging-ramp-progress-card",
+    "video_url": "https://youtu.be/HHu9qI29Ays?si=CgY1boSNJEAcs_mC",
+    "description": "Monitor and upgrade your SMS sending limits using the Messaging Ramp Progress Card, guiding you through each ramp-up level.",
+    "tags": [
+      "sms, messaging, ramp-up"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "How to Resend Unopened Emails Using RSS and Batch Scheduling",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000005570-resend-to-unopened-for-rss-and-batch-scheduled-emails",
+    "video_url": "https://youtu.be/UP93A7GT0hI?si=lrjn7ZJ-cCi58RP5",
+    "description": "Configure RSS and batch-scheduled emails to automatically resend messages only to contacts who didn\u2019t open the original campaign.",
+    "tags": [
+      "rss, email-marketing, automation"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "How to Activate a 30-Day Free WhatsApp Trial with HighLevel",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000005420-whatsapp-30-days-free-subscription-trial-promotion",
+    "video_url": "https://youtu.be/pTiyZwBlZpg?si=DeuKh_cN3rWr0p_P",
+    "description": "Opt in to the 30-day free WhatsApp trial promotion to evaluate messaging features without subscription fees before standard billing begins.",
+    "tags": [
+      "whatsapp, trial, integration"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "How to Automate Tagging in Email Campaigns",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000004425-how-to-automate-tagging-based-on-email-campaign-interactions",
+    "video_url": "https://youtu.be/T0zBdvpdPo8?si=r8M8AZ9PnCVKHls_",
+    "description": "Automatically assign tags to contacts based on their interactions (opens, clicks) with email campaigns to streamline segmentation.",
+    "tags": [
+      "tags, email, automation"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "GHL",
+    "category": "Website, Automation",
+    "tutorial_title": "How to Manage SaaS Subscription Upgrades and Downgrades",
+    "tutorial_url": "https://help.gohighlevel.com/support/solutions/articles/155000001979-upgrading-and-cancelling-saas-plans-for-clients",
+    "video_url": "https://youtu.be/BVw4v5bF-U0?si=TEaxXDy8XPLQQUfC",
+    "description": "Configure SaaS plan settings to allow clients to upgrade, downgrade, and apply prorated billing adjustments for their subscriptions.",
+    "tags": [
+      "saas, subscription, billing, upgrades"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "Shopify",
+    "category": "E-commerce, Website",
+    "tutorial_title": "How To Add Product Categories In Shopify 2025 (For Beginners)",
+    "tutorial_url": "https://help.shopify.com/en/manual/products/details/product-type (help.shopify.com)",
+    "video_url": "https://www.youtube.com/watch?v=L1j78aWjF3w",
+    "description": "Add unique product types for each product to categorize items; product types serve as custom categories beyond standard defaults.",
+    "tags": [
+      "product-types, categories, taxonomy"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Shopify",
+    "category": "E-commerce, Website",
+    "tutorial_title": "How To Organize Products In Your Shopify Store",
+    "tutorial_url": "https://help.shopify.com/en/manual/products (help.shopify.com)",
+    "video_url": "https://www.youtube.com/watch?v=_fNPHKuSxag",
+    "description": "Organize your product catalog by editing product details, using tags, product types, and collections in the Products section of your Shopify admin.",
+    "tags": [
+      "products, organization, catalog"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Shopify",
+    "category": "E-commerce, Website",
+    "tutorial_title": "How To Create Collections on Shopify Store \u2013 Online Store",
+    "tutorial_url": "https://help.shopify.com/en/manual/products/collections (help.shopify.com)",
+    "video_url": "https://www.youtube.com/watch?v=r8k4IKyxyZc",
+    "description": "Create smart or manual collections to group products; customize layout and appearance, and display them on your online store.",
+    "tags": [
+      "collections, smart-collections, manual-collections"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Shopify",
+    "category": "E-commerce, Website",
+    "tutorial_title": "Shopify Shipping Tutorial: Set Up Shipping Rates & Portfolios",
+    "tutorial_url": "https://help.shopify.com/en/manual/fulfillment/setup/shipping-rates (help.shopify.com)",
+    "video_url": "https://www.youtube.com/watch?v=gkPnQngCLNA",
+    "description": "Learn how to configure free, flat, or carrier-calculated shipping rates; set up shipping zones and profiles.",
+    "tags": [
+      "shipping, rates, fulfillment"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Shopify",
+    "category": "E-commerce, Website",
+    "tutorial_title": "How To Build a Shopify Store: Shipping and Fulfillment",
+    "tutorial_url": "https://help.shopify.com/en/manual/fulfillment/setup (help.shopify.com)",
+    "video_url": "https://www.youtube.com/watch?v=X6hBF5bnnto",
+    "description": "Configure order fulfillment options including shipping profiles, delivery methods, packaging, and fulfillment locations to manage order processing.",
+    "tags": [
+      "fulfillment, shipping, setup"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "Canva",
+    "category": "Design & Graphics",
+    "tutorial_title": "How to restore deleted content in Canva?",
+    "tutorial_url": "https://www.canva.com/help/article/where-are-my-deleted-designs",
+    "video_url": "https://www.youtube.com/watch?v=QtTqLMaV1xA&list=PLmL-TRKY9xWijf8w4t7GncSuQW3ll3rh9&index=1&pp=iAQB",
+    "description": "Recover deleted designs from your Trash folder before permanent deletion.",
+    "tags": [
+      "restore, deleted-content, Canva"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Canva",
+    "category": "Design & Graphics",
+    "tutorial_title": "How to make canvas transparent in Paint 3D?",
+    "tutorial_url": "https://www.lifewire.com/create-3d-drawing-microsoft-paint-3d-4151873",
+    "video_url": "https://www.youtube.com/watch?v=Mu24eO45-b8&list=PLmL-TRKY9xWijf8w4t7GncSuQW3ll3rh9&index=2&pp=iAQB",
+    "description": "Enable transparent canvas in Paint 3D to remove the background and save PNGs with transparency.",
+    "tags": [
+      "paint-3d, transparency, graphics"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Canva",
+    "category": "Design & Graphics",
+    "tutorial_title": "How do you make a trifold brochure in Canva?",
+    "tutorial_url": "https://www.canva.com/learn/trifold-brochures",
+    "video_url": "https://www.youtube.com/watch?v=z7-gxL0uTe4&list=PLmL-TRKY9xWijf8w4t7GncSuQW3ll3rh9&index=3&pp=iAQB0gcJCcMJAYcqIYzv",
+    "description": "Design a printable trifold brochure using Canva\u2019s templates and panel layouts.",
+    "tags": [
+      "trifold, brochures, Canva"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Canva",
+    "category": "Design & Graphics",
+    "tutorial_title": "How to make a professional resume with Canva",
+    "tutorial_url": "https://www.canva.com/create/resumes",
+    "video_url": "https://www.youtube.com/watch?v=VYHtTMU5VsM&list=PLmL-TRKY9xWijf8w4t7GncSuQW3ll3rh9&index=4&pp=iAQB",
+    "description": "Use Canva\u2019s resume builder: choose a template, customize sections, and download a polished resume.",
+    "tags": [
+      "resume, templates, career"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Google Slides",
+    "category": "Productivity & Presentation",
+    "tutorial_title": "How to use Google Slides",
+    "tutorial_url": "https://support.google.com/docs/answer/6282736?hl=en",
+    "video_url": "https://youtu.be/7vSnesQDLBE?si=R3bwbCyIAlIj1sZM",
+    "description": "Create, edit, and collaborate on presentations with Google Slides, including theming and sharing.",
+    "tags": [
+      "presentations, collaboration, Google"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Shopify",
+    "category": "E-commerce & Social Media",
+    "tutorial_title": "How to connect Shopify to Facebook Shop (Integration & Setup Tutorial)",
+    "tutorial_url": "https://help.shopify.com/en/manual/online-sales-channels/facebook-instagram",
+    "video_url": "https://www.youtube.com/watch?v=x20_7LB6VRw",
+    "description": "Enable the Facebook & Instagram sales channels in Shopify, sync products, and configure Facebook Shop settings.",
+    "tags": [
+      "Shopify, Facebook-Shop, integration"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Pollo AI",
+    "category": "AI & Video Generation",
+    "tutorial_title": "Pollo AI Quickstart: How to use Pollo AI for beginners",
+    "tutorial_url": "https://docs.pollo.ai/docs/quick-start",
+    "video_url": "https://www.youtube.com/watch?v=zOMLoG6r65Q",
+    "description": "Get started with Pollo AI: obtain your API key, submit a job, and download generated videos.",
+    "tags": [
+      "Pollo AI, video-generation, quickstart"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Pollo AI",
+    "category": "AI & Video Generation",
+    "tutorial_title": "Pollo AI Tutorial & Review: How to use Pollo AI for beginners (2025)",
+    "tutorial_url": "https://docs.pollo.ai/docs/quick-start",
+    "video_url": "https://www.youtube.com/watch?v=fi2KwlOxcks&list=PLdTfdv66XKX4M-UYs_-gc-vv0E9faPKkY",
+    "description": "Hands-on walkthrough of Pollo AI\u2019s interface, customization options, and best practices for video outputs.",
+    "tags": [
+      "Pollo AI, tutorial, review"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "PowerPoint",
+    "category": "Productivity & Presentation",
+    "tutorial_title": "How to use PowerPoint \u2014 PowerPoint tutorial in 2025",
+    "tutorial_url": "https://support.microsoft.com/office/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787",
+    "video_url": "https://www.youtube.com/watch?v=WXmYKsBFb6g&list=PLdTfdv66XKX6UCgfUTH22-UGG_zvvfOtt",
+    "description": "Master slide creation, formatting, animations, and presentation tips in PowerPoint for Windows.",
+    "tags": [
+      "PowerPoint, slides, training"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Reclaim AI",
+    "category": "Productivity & Time Management",
+    "tutorial_title": "Reclaim AI tutorial 2025: How to use Reclaim.ai (for beginners)",
+    "tutorial_url": "https://help.reclaim.ai/en/articles/5224992-getting-started-with-reclaim",
+    "video_url": "https://www.youtube.com/watch?v=8KmSXDuispE&list=PLdTfdv66XKX4eJo8FnA-6cc06Mzw87ChJ",
+    "description": "Connect your calendars, configure tasks and habits, and automate smart scheduling with Reclaim AI.",
+    "tags": [
+      "scheduling, calendar, productivity"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "LM Studio",
+    "category": "AI Tools & Development",
+    "tutorial_title": "LM Studio tutorial: How to run large language models (LLM)",
+    "tutorial_url": "https://lmstudio.ai/docs/getting-started",
+    "video_url": "https://www.youtube.com/watch?v=34283Fj1S54&list=PLdTfdv66XKX6zCLgWdTd0UjxIqK9fxgzE",
+    "description": "Download and run LLMs locally, interact via the chat interface, and manage models in LM Studio.",
+    "tags": [
+      "LLM, local-AI, LM-Studio"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "application": "Outlook",
+    "category": "Email & Productivity",
+    "tutorial_title": "How to add signature in Outlook 2025 (step-by-step)",
+    "tutorial_url": "https://support.microsoft.com/office/create-and-add-an-email-signature-in-outlook-com-or-outlook-on-the-web-776d9006-abdf-444e-b5b7-a61821dff034",
+    "video_url": "https://www.youtube.com/watch?v=i2vVfzbpvos&list=PLdTfdv66XKX5uKa1N2DM36FfeLFL1Keb6",
+    "description": "Create and manage email signatures in Outlook on the web or desktop, set defaults and formatting options.",
+    "tags": [
+      "Outlook, signature, email"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "application": "Shopify",
+    "category": "E-commerce & Fulfillment",
+    "tutorial_title": "How to fulfill orders on Shopify 2025 (for beginners)",
+    "tutorial_url": "https://help.shopify.com/en/manual/orders/fulfilling-orders",
+    "video_url": "https://www.youtube.com/watch?v=19Kh8CntfA8",
+    "description": "Fulfill orders individually or in bulk, set up local delivery, and integrate third-party fulfillment services in Shopify.",
+    "tags": [
+      "order-fulfillment, shipping, Shopify"
+    ],
+    "difficulty": "Beginner"
+  }
+]
